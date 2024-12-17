@@ -2,9 +2,9 @@
 
 
 
-![Alt text]()
+![Alt text](https://github.com/nadeemalamansari/Sales-Performance-Dashboard/blob/main/Screenshot%202024-04-26%20150226.png)
 
-![Alt text]()
+![Alt text](https://github.com/nadeemalamansari/Sales-Performance-Dashboard/blob/main/Screenshot%202024-04-26%20145036.png)
 
 
 ## Overview
